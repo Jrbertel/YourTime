@@ -1,0 +1,52 @@
+
+.footer{
+
+	background-image: linear-gradient(0deg, #37efa5 40%, white);
+	border: 0px solid white;
+	font-family: 'Kodchasan', sans-serif;
+	font-size: 12px;
+	border-width: 1px;
+	display:flex;
+	justify-content: space-around;
+	bottom:0;
+	width:100%;
+	margin-top:150px;
+	padding:0;
+	vertical-align: baseline;
+	float: left;
+}
+
+.bannerimage{
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  width:100%;
+  position: absolute;
+
+
+
+}
+
+
+.text{
+	font-style : bold;
+	font-family: 'Kodchasan', sans-serif;
+	font-size: 34px;
+	border-width: 1px;
+	color: black;
+	align-content: center;
+	margin-top: 5px;
+
+
+
+}
+
+.banner{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+
+}
+
+.banner-image {
+	width: 100%;
+}

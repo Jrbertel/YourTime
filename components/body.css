@@ -1,0 +1,195 @@
+.main {width: 1024px;
+	margin: auto;
+	display: flex;
+	align-items: center;
+	font-family: 'Kodchasan', sans-serif;
+	padding-top: 80px;
+	}
+
+.divA { 
+	width: 300px;
+	height: 300px;
+	margin-left: 10px;
+	border-radius: 20px; 
+	
+	background-color: white;
+	position: relative;
+	box-shadow: 0.3px 0.3px 3px;
+  
+
+	}
+
+.icon {
+
+	font-size: 100px;
+	position: absolute;
+	top: 19%;
+	left: 36%;
+
+}
+.calendar {
+	width: 80px;
+	height: 80px;
+}
+
+.titre1 {color: #4D4E50;
+text-align: center;
+margin-top: 60%}
+
+.div1A  {
+	width: 305px;
+	height: 300px;
+	background-color:#21CF97 ;
+	margin-left: 0px;
+	border-radius: 20px;
+	font-family: 'Kodchasan', sans-serif;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	opacity: 0;
+	}
+
+.div1A:hover {
+	opacity: 1; transition-duration: 0.5s ;
+}	
+.imgacts{
+	width: 40px;
+	height: 40px;
+	margin-left: 130px;
+	margin-top: 10px;
+	display: flex;
+	align-items: center;
+
+	}
+	.textnew{ text-align: center; }
+
+
+
+.divB{ 
+	width: 300px;
+	height: 300px;
+	margin-left: 20px;
+	border-radius: 20px; 
+
+	background-color: white;
+	position: relative;
+	box-shadow: 0.3px 0.3px 3px;
+  
+
+	}
+
+.icon1 {
+
+	font-size: 100px;
+	position: absolute;
+	top: 19%;
+	left: 36%;
+
+}
+.todolist {
+	width: 80px;
+	height: 80px;
+}
+
+.titre2 {color: #4D4E50;
+text-align: center;
+margin-top: 60%}
+
+.div1B  {
+	width: 305px;
+	height: 300px;
+	background-color:#21CF97 ;
+	margin-left: 0px;
+	border-radius: 20px;
+	font-family: 'Kodchasan', sans-serif;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	opacity: 0;
+	}
+
+.div1B:hover {
+	opacity: 1; transition-duration: 0.5s ;
+}	
+.imgacts{
+	width: 40px;
+	height: 40px;
+	margin-left: 130px;
+	margin-top: 10px;
+	display: flex;
+	align-items: center;
+
+	}
+.text2{ text-align: center; }
+
+
+
+
+.divC{ 
+	width: 300px;
+	height: 300px;
+	margin-left: 20px;
+	border-radius: 20px; 
+
+	background-color: white;
+	position: relative;
+	box-shadow: 0.3px 0.3px 3px;
+  
+
+	}
+
+.icon5 {
+
+	position: absolute;
+	top: 19%;
+	left: 29%;
+	width: 30%;
+	height: 20%;
+
+
+}
+.Transport { width: 40%; height: 40%;
+
+	
+}
+
+.titre3 {color: #4D4E50;
+text-align: center;
+margin-top: 60%}
+
+.div1C  {
+	width: 305px;
+	height: 300px;
+	background-color:#21CF97 ;
+	margin-left: 0px;
+	border-radius: 20px;
+	font-family: 'Kodchasan', sans-serif;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	opacity: 0;
+	}
+
+.div1C:hover {
+	opacity: 1; transition-duration: 0.5s ;
+}	
+.imgacts{
+	width: 40px;
+	height: 40px;
+	margin-left: 130px;
+	margin-top: 10px;
+	display: flex;
+	align-items: center;
+
+	}
+.text3{ text-align: center; }
+
+
+
+

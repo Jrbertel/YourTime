@@ -1,0 +1,44 @@
+
+
+.logo { 
+	width: 90px; 
+	height: 55px;
+	border-radius: 0px;
+	position: center; 
+	margin-left: 20px; 
+
+}
+
+
+.navbar {
+	display: flex;
+	list-style-type: none;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px 20px;
+	background-color:#21CF97;
+
+}
+
+
+.listinline {
+	list-style-type: none;
+	display: flex;
+	justify-content: space-between;
+	float: left;
+	font-family: 'Kodchasan', sans-serif;
+	font-size: 20px;
+	color: white;
+	margin: 0px;
+	padding: 0px;
+	text-align: justify-all;
+
+	
+}
+
+
+
+.listinline li {
+	padding: 10px 50px;
+
+}
